@@ -1,5 +1,5 @@
 # KeySmasher
-Simple program that presses keys 1-4 based on a delay set by the User.
+Perfectly innocent program definately not made for video games that presses keys 1-4 based on a delay set by the User.
 
 Programmed in Java using NetBeans.
 
