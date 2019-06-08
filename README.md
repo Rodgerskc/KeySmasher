@@ -15,7 +15,7 @@ Set the keypress delay in milliseconds.
 
 Press the Start button to begin spamming.
 
-Press the Stop button to stop spamming keys.
+Press the Stop button to stop spamming.
 
     Start and Stop are the same button, this tells you whether or not it is running.
     
